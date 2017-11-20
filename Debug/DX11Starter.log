@@ -1,0 +1,9 @@
+﻿C:\Users\ruchi\Desktop\Cube Map Finished\WaterPS.hlsl(176,37-71): warning X3206: implicit truncation of vector type
+C:\Users\ruchi\Desktop\Cube Map Finished\WaterPS.hlsl(180,30-60): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\ruchi\Desktop\Cube Map Finished\Debug\WaterPS.cso
+  Game.cpp
+c:\users\ruchi\desktop\cube map finished\game.cpp(490): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ruchi\desktop\cube map finished\game.cpp(718): warning C4305: 'argument': truncation from 'double' to 'float'
+  DX11Starter.vcxproj -> C:\Users\ruchi\Desktop\Cube Map Finished\Debug\DX11Starter.exe
+  DX11Starter.vcxproj -> C:\Users\ruchi\Desktop\Cube Map Finished\Debug\DX11Starter.pdb (Partial PDB)
